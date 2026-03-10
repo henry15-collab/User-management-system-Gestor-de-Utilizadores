@@ -46,7 +46,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/henrickmorotomi/user-management-system-Gestor-de Utilizadores.git
+git clone https://github.com/henrickmorotomi/user-management-system-Gestor-de-Utilizadores.git
 
 Navigate to the project folder:
 
